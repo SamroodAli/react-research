@@ -6,6 +6,7 @@ const links = [
   "strict-mode-double-invocation",
   "react-profiler",
   "react-dev-tools-hooks-debugging",
+  "react-profiler-dev-tools",
 ];
 
 export default function Home() {
