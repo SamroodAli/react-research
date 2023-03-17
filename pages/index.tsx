@@ -1,7 +1,11 @@
 import Head from "next/head";
 import Link from "next/link";
 
-const links = ["state-batching", "strict-mode-double-invocation"];
+const links = [
+  "state-batching",
+  "strict-mode-double-invocation",
+  "react-profiler",
+];
 
 export default function Home() {
   return (
