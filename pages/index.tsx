@@ -7,6 +7,7 @@ const links = [
   "react-profiler",
   "react-dev-tools-hooks-debugging",
   "react-profiler-dev-tools",
+  "breakpoints-debugging",
 ];
 
 export default function Home() {
