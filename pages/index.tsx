@@ -5,6 +5,7 @@ const links = [
   "state-batching",
   "strict-mode-double-invocation",
   "react-profiler",
+  "react-dev-tools-hooks-debugging",
 ];
 
 export default function Home() {
